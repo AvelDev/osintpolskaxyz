@@ -8,4 +8,11 @@ Katalog został podzielony na kilka głównych sekcji:
 - **Glosariusz** – Dobre praktyki i proces prowadzenia śledztwa.
 - **Prawo i etyka** – Kluczowe aspekty prawne i etyczne pracy z danymi.
 
+Linki są podzielone na:
+
+- ⭐ - **Rekomendacje społeczności**
+- 💰 - **Narzędzia płatne bez darmowej wersji**
+- 💸 - **Narzędzia płatne z trialem**
+- 🚫 - **Niedziałające linki**
+
 Zapoznaj się z sekcją [Glosariusz](/glosariusz), aby poznać podstawowe pojęcia!
