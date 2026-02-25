@@ -51,10 +51,6 @@ export default defineConfig({
               link: "/wyszukiwanie",
             },
             {
-              text: "👤 Osoby",
-              link: "/osoby",
-            },
-            {
               text: "💬 Social media",
               link: "/social",
             },
@@ -65,10 +61,6 @@ export default defineConfig({
             {
               text: "🗺️ Lokalizacja",
               link: "/lokalizacja",
-            },
-            {
-              text: "🚗 Transport",
-              link: "/transport",
             },
             {
               text: "💳 Krypto",
@@ -85,10 +77,6 @@ export default defineConfig({
             {
               text: "📦 Archiwa",
               link: "/archiwa",
-            },
-            {
-              text: "🛠️ Narzędzia",
-              link: "/narzedzia",
             },
             {
               text: "❓ Inne",

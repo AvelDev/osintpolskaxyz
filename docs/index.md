@@ -14,9 +14,6 @@ features:
   - title: 🔎 Wyszukiwanie
     link: /wyszukiwanie
     details: Wyszukiwarki, dorki
-  - title: 👤 Osoby
-    link: /osoby
-    details: Identyfikacja osób
   - title: 💬 Social media
     link: /social
     details: Platformy społecznościowe
@@ -26,9 +23,6 @@ features:
   - title: 🗺️ Lokalizacja
     link: /lokalizacja
     details: Mapy, geolokalizacja i analiza przestrzenna
-  - title: 🚗 Transport
-    link: /transport
-    details: Ruch lądowy, lotniczy i morski
   - title: 💳 Krypto
     link: /krypto
     details: Analiza kryptowalut
@@ -41,9 +35,6 @@ features:
   - title: 📦 Archiwa
     link: /archiwa
     details: Archiwalne dane, Wayback Machine i inne
-  - title: 🛠️ Narzędzia
-    link: /narzedzia
-    details: Narzedzia ogólne
   - title: ❓ Inne
     link: /inne
     details: Pozostałe źródła i przydatne serwisy
