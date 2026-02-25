@@ -8,6 +8,26 @@ export default defineConfig({
 
   title: "OsintPolska.xyz",
   description: "OsintPolska.xyz - katalog narzędzi Osint",
+  transformHead({ assets }) {
+    // adjust the regex accordingly to match your font
+    const robotoFontFile = assets.find((file) =>
+      /Roboto-Regular\.[\w-]+\.woff2/.test(file),
+    );
+    if (robotoFontFile) {
+      return [
+        [
+          "link",
+          {
+            rel: "preload",
+            href: robotoFontFile,
+            as: "font",
+            type: "font/woff2",
+            crossorigin: "",
+          },
+        ],
+      ];
+    }
+  },
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     ["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }],
