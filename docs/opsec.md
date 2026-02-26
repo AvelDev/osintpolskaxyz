@@ -12,3 +12,6 @@ Zbiór wskazówek i narzędzi związanych z ochroną operacyjną w kontekście O
 - ⭐ [Tsurugi](https://tsurugi-linux.org/index.php) - Dystrybucja Linuksa zawierająca szeroki zestaw narzędzi do analizy, śledzenia i pozyskiwania informacji.
 - [Tails](https://tails.boum.org/) - System operacyjny skoncentrowany na prywatności i anonimowości, który można uruchomić z pendrive'a lub DVD, nie pozostawiając śladów na komputerze.
 - [Qubes OS](https://www.qubes-os.org/) - System operacyjny oparty na bezpieczeństwie, który izoluje różne zadania i aplikacje w oddzielnych maszynach wirtualnych, co zwiększa ochronę przed atakami i wyciekami danych.
+
+## Inne
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - Zbiór strony, aplikacji, narzędzi, które są związane z zachowaniem prytwatności
