@@ -71,6 +71,10 @@ export default defineConfig({
               link: "/wyszukiwanie",
             },
             {
+              text: "🌐 Sieci",
+              link: "/sieci",
+            },
+            {
               text: "💬 Social media",
               link: "/social",
             },

@@ -14,6 +14,9 @@ features:
   - title: 🔎 Wyszukiwanie
     link: /wyszukiwanie
     details: Wyszukiwarki, dorki
+  - title: 🌐 Sieci
+    link: /sieci
+    details: Domeny, LAN
   - title: 💬 Social media
     link: /social
     details: Platformy społecznościowe
